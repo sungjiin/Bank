@@ -1,0 +1,4 @@
+﻿  BankSystem.c
+c:\users\sung jin\desktop\용인대\c\banksystem\banksystem.c(36): warning C4133: 'function': incompatible types - from 'Account [10]' to 'const char *const '
+  BankSystem.vcxproj -> C:\Users\Sung Jin\Desktop\용인대\C\BankSystem\Debug\BankSystem.exe
+  BankSystem.vcxproj -> C:\Users\Sung Jin\Desktop\용인대\C\BankSystem\Debug\BankSystem.pdb (Full PDB)
